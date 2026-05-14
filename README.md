@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/smagnan/1-million-reddit-comments-from-40-subred
 
 ### How to use it:
 - When running the notebook in Google Colab:
-  - Upload `kaggle_RC_2019-05.csv` when prompted
+  - Upload `kaggle_RC_2019-05.csv` 
 
 ## Methods
 
