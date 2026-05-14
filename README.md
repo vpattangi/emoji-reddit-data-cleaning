@@ -12,6 +12,22 @@ This project analyzes how emojis such as the crying emoji and skull emoji are us
 * Subreddit category comparison (memes, gaming, sports, news, politics)
 * Interactive dashboard using ipywidgets
 
+## Dataset
+
+This project uses the "1 Million Reddit Comments from 40 Subreddits" dataset from Kaggle:
+
+https://www.kaggle.com/datasets/smagnan/1-million-reddit-comments-from-40-subreddits
+
+### How to get the data:
+1. Go to the link above
+2. Click "Download"
+3. Extract the ZIP file
+4. Locate the file: `kaggle_RC_2019-05.csv`
+
+### How to use it:
+- When running the notebook in Google Colab:
+  - Upload `kaggle_RC_2019-05.csv` when prompted
+
 ## Methods
 
 The dataset was processed using Python in Google Colab. Pandas was used for data cleaning and grouping, while regular expressions were used to detect emoji patterns. Additional features such as emoji type, emoji intensity, and tone classification were engineered to support analysis.
