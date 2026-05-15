@@ -43,6 +43,8 @@ The analysis shows that emojis are primarily used in informal contexts to intens
 * regex
 * ipywidgets
 * Google Colab
+* Scikit-learn
+* NLP Prediction Model
 
 ## How to Run
 
